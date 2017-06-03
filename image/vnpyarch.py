@@ -18,7 +18,8 @@ from svgwrite import cm, mm
 
 
 def basic_shapes(name):
-    dwg = svgwrite.Drawing(filename=name, size=('35cm', '25cm'), debug=True)
+    dwg = svgwrite.Drawing(filename=name,fill="black", size=('35cm', '25cm'), debug=True)
+    dwg.add(dwg.rect(insert=(0, 0), size=('100%', '100%'), rx=None, ry=None, fill='lightgray'))
     hlines = dwg.add(dwg.g(id='hlines', stroke='green'))
     for y in range(5):
         # hlines.add(dwg.line(start=(2*cm, 5*(y)*cm), end=(30*cm, 5*y*cm)))
