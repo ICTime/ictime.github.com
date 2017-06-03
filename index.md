@@ -9,6 +9,7 @@ tagline: Trade an Edge without Hedge
   <!-- Modernizr -->
   <script src="./image/modernizr.min.js"></script>
 
+  <!--
   <script>
       function DetectMobileDevice()
       {
@@ -21,10 +22,9 @@ tagline: Trade an Edge without Hedge
 
       }
   </script>
+  <body onload="DetectMobileDevice()"> </body> 
+  --> 
 
-
-<body onload="DetectMobileDevice()">
-</body> 
 
 <div class="contentWrapper">
     <section class="homepage-slideshow-section">
