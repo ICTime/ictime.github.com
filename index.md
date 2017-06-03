@@ -23,26 +23,25 @@ tagline: Trade an Edge without Hedge
                 	<div class="slideOverlay"></div>
                 </div>
 
-	<div class="homeSlide" style="background: url(./image/1280_imagine_build_realize.jpeg)">
+	        <div class="homeSlide" style="background: url(./image/1280_imagine_build_realize.jpeg)">
                 	<div class="inner">
                     	<div class="homeSlide_cta">
                         <h1 class="homeSlide_title _is_ready">数据挖掘, 可量化的，持续的非随机性</h1>
                         <a class="careerButton" href="http://edgefund.cn/research"><span> 阅读更多 </span></a>
+                     </div>
                     </div>
-                    
-                </div>
+            </div>
 
-
-            </div><div class="homeSlide" style="background: url(./image/InsightsV3.jpg)">
+            <div class="homeSlide" style="background: url(./image/InsightsV3.jpg)">
                 <div class="inner">
                     <div class="homeSlide_cta">
                         <h1 class="homeSlide_title _is_ready"> 投机交易, 一项探索优势，管理风险的系统化工程 </h1>
                         <a class="careerButton" href="http://edgefund.cn/research"><span> 阅读更多 </span></a>
                     </div>
-                    
                 </div>
+            </div>
 
-            </div><div class="homeSlide" style="background: url(./image/base.png)">
+            <div class="homeSlide" style="background: url(./image/base.png)">
                 <div class="inner">
                     <div class="homeSlide_cta">
                         <h1 class="homeSlide_title _is_ready"> 四个纬度, 相同策略一篮子交易, 低相关性的小众CTA</h1>
@@ -51,15 +50,15 @@ tagline: Trade an Edge without Hedge
                 </div>
             </div>
 
-            <div class="homeSlide" style="background: url(./image/base.png)">
+            <div class="homeSlide" style="background: url(./image/InsightsV2.jpg)">
                 <div class="inner">
                     <div class="homeSlide_cta">
-                        <h1 class="homeSlide_title _is_ready"> 从住址到实盘交易，100%程序化</h1>
+                        <h1 class="homeSlide_title _is_ready"> 从回测到实盘交易，100%程序化</h1>
                         <a class="careerButton" href="http://edgefund.cn/product"><span>产品详情</span></a>
                     </div>
                 </div>
             </div>
-                
+
            <div class="slideOverlay"></div>
         </div>
     </section>
