@@ -39,7 +39,7 @@ tagline: Trade an Edge without Hedge
                 </div>
             </div>
 
-            <div class="homeSlide" style="background: url(./image/base.png)">
+            <div class="homeSlide" style="background: url(./image/edge-arch.jpg)">
                 <div class="inner">
                     <div class="homeSlide_cta">
                         <h1 class="homeSlide_title _is_ready"> 四个纬度, 相同策略一篮子交易, 低相关性的小众CTA</h1>
