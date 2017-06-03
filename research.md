@@ -18,12 +18,12 @@ weight: 3
 
         <div class="insightsFeatures_item insightsFeatures_item--square" style="float:left width:50%" >
              <div class="insightsFeatures_item_inner"  >
-                    <div class="insightsFeatures_item_media" style="background-image: url(), url(http://139.196.171.132/3.svg)">
+                    <div class="insightsFeatures_item_media" style="background-image: url(), url(http://139.196.171.132/gitimage/base.svg)">
                     </div>
                     <div class="insightsFeatures_item_content">
                         <div class="insightsTax">
                         </div>
-                        <h2 class="insightsFeatures_title"><a href="http://edgefund.cn/research"> Edge交易系统架构</a></h2>
+                        <h2 class="insightsFeatures_title"><a href="/trading/2017/05/01/arch"> Edge交易系统架构</a></h2>
                     </div>
            </div>
         </div>
