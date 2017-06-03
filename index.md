@@ -49,16 +49,18 @@ tagline: Trade an Edge without Hedge
                         <a class="careerButton" href="http://edgefund.cn/product"><span>产品详情</span></a>
                     </div>
                 </div>
+            </div>
 
-            </div><div class="homeSlide" style="background: url(./image/base.png)">
+            <div class="homeSlide" style="background: url(./image/base.png)">
                 <div class="inner">
                     <div class="homeSlide_cta">
                         <h1 class="homeSlide_title _is_ready"> 从住址到实盘交易，100%程序化</h1>
                         <a class="careerButton" href="http://edgefund.cn/product"><span>产品详情</span></a>
                     </div>
                 </div>
+            </div>
                 
-                <div class="slideOverlay"></div>
+           <div class="slideOverlay"></div>
         </div>
     </section>
 </div><!-- /.contentWrapper -->
