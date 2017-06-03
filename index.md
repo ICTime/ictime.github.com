@@ -12,16 +12,14 @@ tagline: Trade an Edge without Hedge
 <div class="contentWrapper">
     <section class="homepage-slideshow-section">
         <div data-js-component="homeSlideShow" class="home-slideshow">
-                <div class="homeSlide" style="background: url(./image/aitrading.jpg)">
-                     <div class="inner">
-                       <div class="homeSlide_cta">
-                        <h1 class="homeSlide_title _is_ready"> 来自电子工程行业，系统化自动化交易的践行者</h1>
-                        <a class="careerButton" href="http://edgefund.cn/about"><span> 关于我们 </span></a>
-                     </div>
+            <div class="homeSlide" style="background: url(./image/aitrading.jpg)">
+                 <div class="inner">
+                   <div class="homeSlide_cta">
+                    <h1 class="homeSlide_title _is_ready"> 来自电子工程行业，系统化自动化交易的践行者</h1>
+                    <a class="careerButton" href="http://edgefund.cn/about"><span> 关于我们 </span></a>
+                   </div>
                 </div>
-
-                	<div class="slideOverlay"></div>
-                </div>
+            </div>
 
 	        <div class="homeSlide" style="background: url(./image/1280_imagine_build_realize.jpeg)">
                 	<div class="inner">
@@ -59,7 +57,7 @@ tagline: Trade an Edge without Hedge
                 </div>
             </div>
 
-           <div class="slideOverlay"></div>
+
         </div>
     </section>
 </div><!-- /.contentWrapper -->
